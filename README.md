@@ -1,5 +1,5 @@
 # Documentation du tuto Github avec Git
-## initialisation du dépôt 
+## Initialisation du dépôt 
 
 ```bash
 git init 
